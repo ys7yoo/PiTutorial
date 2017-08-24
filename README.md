@@ -6,9 +6,14 @@
   * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
   * 2017 Summer Short Course 
   
-# Module 1 
+# Module 0. Intro
 
-# Module 2
+Q. What is Raspberry Pi? 
+
+Q. What is it good for? 
+
+
+# Module 1. 
 
 
 
