@@ -13,7 +13,12 @@ Q. What is Raspberry Pi?
 Q. What is it good for? 
 
 
-# Module 1. 
+# Module 1. Installation!
+* https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
+* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
+* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup
+
+
 
 
 
