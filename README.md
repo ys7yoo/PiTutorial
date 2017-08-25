@@ -6,7 +6,7 @@
   * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
   * 2017 Summer Short Course 
   
-# Module 1. Intro
+# Lab 1. Intro
 ## Pre-lab Questions
 Q. What is Raspberry Pi? 
 Q. What is it good for? 
@@ -22,7 +22,7 @@ Q. What do you want to make using Raspberry Pi?
 
 
 
-## Module 2. Python crash course
+# Lab 2. Python crash course
 
 
 
