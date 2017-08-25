@@ -24,5 +24,11 @@ Q. What do you want to make using Raspberry Pi?
 
 # Lab 2. Python crash course
 
+## Pre-lab Questions
+
+## Some exercises
+
+
+# lab 3. 
 
 
