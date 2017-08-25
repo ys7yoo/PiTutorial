@@ -8,9 +8,11 @@
   
 # Lab 1. Intro
 ## Pre-lab Questions
+```
 Q. What is Raspberry Pi? 
 Q. What is it good for? 
 Q. What do you want to make using Raspberry Pi?
+```
 
 ## Installation!
 * https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
