@@ -38,9 +38,10 @@ From now on, all the codes will be submitted through github.com
  * (Optional) Advanced: https://opentutorials.org/course/2708
  
 ## Exercise
-  * Make an account on github.com
+  * Make an account on github.com.
+  * Make a homepage linked with your github id on github.io. (See https://pages.github.com for steps.)
   * Make a repository for your lab codes.
-  * Make a repository for your team project
+  * Make a repository for your team project.
 
 
 ---
