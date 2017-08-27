@@ -22,6 +22,8 @@ Q. What do you want to make using Raspberry Pi?
 
 ## Play with RPI
 
+---
+
 # Git 
 
 Git is the SW engineer's best friend!
@@ -41,7 +43,7 @@ From now on, all the codes will be submitted through github.com
   * Make a repository for your team project
 
 
-
+---
 
 # Lab 2. Python crash course
 
