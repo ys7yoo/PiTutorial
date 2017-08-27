@@ -22,6 +22,18 @@ Q. What do you want to make using Raspberry Pi?
 
 ## Play with RPI
 
+# Git 
+
+## Online tutorial 
+ * Beginner's guide: https://opentutorials.org/course/1492
+ * (Optional) Advanced: https://opentutorials.org/course/2708
+ 
+## Exercise
+  * Make an account on github.com
+  * Make a repository for your lab codes.
+  * Make a repository for your team project
+
+From now on, all the codes will be submitted through github.com
 
 
 # Lab 2. Python crash course
