@@ -24,6 +24,13 @@ Q. What do you want to make using Raspberry Pi?
 
 # Git 
 
+Git is the SW engineer's best friend!
+Git is a modern version control system, which is an essential platform for SW development.
+Github offers repositories for git and web-based tools for free!
+Most open-source softwares are hosted on github, which became a de-facto reposotiry for collaborating and sharing your codes with the global community.
+This week, you will learn how to use git and open an account on github.
+From now on, all the codes will be submitted through github.com
+
 ## Online tutorial 
  * Beginner's guide: https://opentutorials.org/course/1492
  * (Optional) Advanced: https://opentutorials.org/course/2708
@@ -33,7 +40,7 @@ Q. What do you want to make using Raspberry Pi?
   * Make a repository for your lab codes.
   * Make a repository for your team project
 
-From now on, all the codes will be submitted through github.com
+
 
 
 # Lab 2. Python crash course
