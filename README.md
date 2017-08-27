@@ -6,7 +6,7 @@
   * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
   * 2017 Summer Short Course 
   
-# Lab 1. Intro
+# Lab 1. Intro to RPI
 ## Pre-lab Questions
 ```
 Q. What is Raspberry Pi? 
