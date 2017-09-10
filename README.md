@@ -54,7 +54,11 @@ From now on, all the codes will be submitted through github.com
 
 ## Pre-lab Questions
 
-## Some exercises
+## Setting up python environment
+https://github.com/ys7yoo/PiTutorial/blob/master/README.md#lab-2-python-crash-course
+
+## Python 3 programming
+https://github.com/ys7yoo/PyBasic#2-python-3-programming
 
 
 # lab 3. 
