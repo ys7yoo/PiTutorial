@@ -38,7 +38,7 @@ Q. What do you want to make using Raspberry Pi?
         ```bash
         passwd
         ```
-        ``pi'' is an administrator. So, it's very important to use a strong password to secure you system. 
+        Account "pi" is an administrator. So, it's very important to use a strong password to secure you system. 
 
         It's also a good idea to make a new id that you like and make it an administrator. You can do it as follows.
         ```bash
@@ -46,7 +46,7 @@ Q. What do you want to make using Raspberry Pi?
         sudo adduser [ID YOU WANT] sudo
         ```
         
-        Here, "sudo" is a special command (only for administrators) to change or set critical settings. 
+        Here, "sudo" is a special command (only for administrators) to change or set critical settings. Any sudo command requires authentification based on the password of the current your.
         
         
         
