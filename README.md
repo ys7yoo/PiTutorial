@@ -19,15 +19,15 @@ Q. What do you want to make using Raspberry Pi?
 ## Installation!
 
 1. Attach heat sinks
- ![image of heat sinks](images/heat-sink.jpg)
+  ![image of heat sinks](images/heat-sink.jpg)
 
 2. Make Raspbian micro SD image
-    * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
-    * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/.
-        * RASPBIAN STRETCH LITE (Version:September 2017, Release date:2017-09-07)
-    * Insert the micro SD card to the slot in the back.
+  * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
+  * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/.
+    * RASPBIAN STRETCH LITE (Version:September 2017, Release date:2017-09-07)
+  * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
-    * Boot up RPI
+  * Boot up RPI
   
     You will see many logs like this.
     ![image of heat sinks](images/booting.jpg)
