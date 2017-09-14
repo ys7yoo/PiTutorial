@@ -29,7 +29,7 @@ Q. What do you want to make using Raspberry Pi?
         ![image of heat sinks](images/sd-card.jpg)
     * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see many booting logs on your screen.
         ![image of heat sinks](images/booting.jpg)
-    * Log in with id/pw
+    * Log in with default id/pw
         * id: pi
         * pwd: raspberry
 
@@ -38,6 +38,18 @@ Q. What do you want to make using Raspberry Pi?
         ```bash
         passwd
         ```
+        ``pi'' is an administrator. So, it's very important to use a strong password to secure you system. 
+
+        It's also a good idea to make a new id that you like and make it an administrator. You can do it as follows.
+        ```bash
+        sudo adduser [ID YOU WANT]
+        sudo adduser [ID YOU WANT] sudo
+        ```
+        
+        Here, "sudo" is a special command (only for administrators) to change or set critical settings. 
+        
+        
+        
         
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup
