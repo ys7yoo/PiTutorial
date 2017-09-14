@@ -62,8 +62,8 @@ Q. What do you want to make using Raspberry Pi?
         Run "raspi-config" and select "5 Interfacing Options" > "P2 SSH". Then you can enable SSH.
         ![image of heat sinks](images/raspi-config-interface.png)
         ![image of heat sinks](images/raspi-config-ssh1.png)
-        ![image of heat sinks](images/raspi-config-ssh2.png){:height="50%" width="50%"}
-        ![image of heat sinks](images/raspi-config-ssh3.png){:height="50%" width="50%"}        
+        ![image of heat sinks](images/raspi-config-ssh2.png&s=50)
+        ![image of heat sinks](images/raspi-config-ssh3.png&s=50)
         
         
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
