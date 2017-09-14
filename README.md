@@ -27,11 +27,18 @@ Q. What do you want to make using Raspberry Pi?
         * RASPBIAN STRETCH LITE (Version:September 2017, Release date:2017-09-07, Kernel version:4.9)
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
-    * Connect the power to your RPI. Then, you will see many booting logs on your screen.
+    * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see many booting logs on your screen.
         ![image of heat sinks](images/booting.jpg)
+    * Log in with id/pw
+        * id: pi
+        * pwd: raspberry
 
 3. Configuring your RPI
-
+    * Change password!
+        ```bash
+        passwd
+        ```
+        
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup
 
