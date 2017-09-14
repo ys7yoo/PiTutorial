@@ -56,6 +56,7 @@ Q. What do you want to make using Raspberry Pi?
         ```
         You will see a menu for some common settings.
         ![image of heat sinks](images/raspi-config.png)
+        
     * Enable SSH
     
         SSH is the standard way to connect any Linux-based machine. Using ssh, you can remotely connect to your RPI. So, let's turn it on.
@@ -67,6 +68,19 @@ Q. What do you want to make using Raspberry Pi?
         ![image of heat sinks](images/raspi-config-interface.png)
         ![image of heat sinks](images/raspi-config-ssh1.png)
 
+    * Change locale
+    
+        By default, RPI is set up for British English and British keyboards. The former may not a big problem, but the latter is. With default setting, you may not type special characters like " or #!
+        So, let's change the locale using raspi-config. 
+        
+        Run "raspi-config" and select "4 Localization Options" > "I1 Change Locale"
+        ```bash
+        sudo raspi-config
+        ```        
+        ![image of heat sinks](images/raspi-config-locale1.png)
+        ![image of heat sinks](images/raspi-config-locale2.png)        
+        
+        SSH is the standard way to connect any Linux-based machine. Using ssh, you can remotely connect to your RPI. So, let's turn it on.
         
         
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
