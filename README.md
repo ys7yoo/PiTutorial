@@ -48,6 +48,13 @@ Q. What do you want to make using Raspberry Pi?
         
         Here, "sudo" is a special command (only for administrators) to change or set critical settings. Any sudo command requires authentification based on the password of the current your.
         
+    * Using raspi-config
+        In RPI, you can change any setting you like using command line commands. 
+        There is an easier way. Execute: 
+        ```bash
+        sudo raspi-config
+        ```
+        You will see a menu for some common settings.
         
         
         
