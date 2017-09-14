@@ -27,8 +27,7 @@ Q. What do you want to make using Raspberry Pi?
         * RASPBIAN STRETCH LITE (Version:September 2017, Release date:2017-09-07, Kernel version:4.9)
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
-    * Boot up RPI
-        You will see many logs like this.
+    * Connect the power to your RPI. Then, you will see many booting logs on your screen.
         ![image of heat sinks](images/booting.jpg)
 
 3. Configuring your RPI
