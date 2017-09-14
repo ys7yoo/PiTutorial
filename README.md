@@ -19,6 +19,7 @@ Q. What do you want to make using Raspberry Pi?
 ## Installation!
 
 1. Attach heat sinks
+![image of heat sinks](images/heat-sink.jpg)
 
 
 * https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
