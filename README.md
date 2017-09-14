@@ -77,11 +77,16 @@ Q. What do you want to make using Raspberry Pi?
         ```bash
         sudo raspi-config
         ```        
-        ![image of heat sinks](images/raspi-config-locale1.png)
-        ![image of heat sinks](images/raspi-config-locale2.png)        
+        ![image of locale setting](images/raspi-config-locale1.png)
+        ![image of locale setting](images/raspi-config-locale2.png)        
         
-        SSH is the standard way to connect any Linux-based machine. Using ssh, you can remotely connect to your RPI. So, let's turn it on.
+        Here, uncheck anything starting with "en_GB" and check "en_US.UTF-8 UTF-8."
+        ![image of locale setting](images/raspi-config-locale3.png)
         
+        Set also default locale to "en_US.UTF-8 UTF-8." Then, wait for a while.
+        ![image of locale setting](images/raspi-config-locale4.png)
+        
+
         
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup
