@@ -28,6 +28,7 @@ Q. What do you want to make using Raspberry Pi?
   * Insert the micro SD card to the slot in the back.
     ![image of heat sinks](images/sd-card.jpg)
   * Boot up RPI
+  
     You will see many logs like this.
     ![image of heat sinks](images/booting.jpg)
 
