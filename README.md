@@ -59,11 +59,13 @@ Q. What do you want to make using Raspberry Pi?
     * Enable SSH
         SSH is the standard way to connect any Linux-based machine. Using ssh, you can remotely connect to your RPI. So, let's turn it on.
         
-        Run "raspi-config" and select "5 Interfacing Options" > "P2 SSH". Then you can enable SSH.
+        Run "raspi-config" and select "5 Interfacing Options" > "P2 SSH". Then, you can enable SSH.
+        ```bash
+        sudo raspi-config
+        ```        
         ![image of heat sinks](images/raspi-config-interface.png)
         ![image of heat sinks](images/raspi-config-ssh1.png)
-        ![image of heat sinks](images/raspi-config-ssh2.png)
-        ![image of heat sinks](images/raspi-config-ssh3.png)
+
         
         
 * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
