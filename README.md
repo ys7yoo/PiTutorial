@@ -100,7 +100,18 @@ Q. What do you want to make using Raspberry Pi?
         
         Set also default locale to "en_US.UTF-8 UTF-8." Then, wait for a while.
         ![image of locale setting](images/raspi-config-locale4.png)
-        
+
+    * Change keyboard layout
+    
+        Run "raspi-config" and select "4 Localization Options"> "I3 Change Keyboard layout". 
+        Select "Generic 102-key" and default for the others. 
+        ```bash
+        sudo raspi-config
+        ```
+        ![image of locale setting](images/raspi-config-keyboard1.png)
+        ![image of locale setting](images/raspi-config-keyboard2.png)
+        ![image of locale setting](images/raspi-config-keyboard3.png)
+
     * For other settings, see https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
     
 4. Network setup 
