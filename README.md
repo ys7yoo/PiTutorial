@@ -127,9 +127,9 @@ Q. What do you want to make using Raspberry Pi?
         ```bash
         sudo raspi-config
         ```
-        ![image of locale setting](images/raspi-config-keyboard1.png)
-        ![image of locale setting](images/raspi-config-keyboard2.png)
-        ![image of locale setting](images/raspi-config-keyboard3.png)
+        ![image of locale setting](images/raspi-config-keyboard1.jpg)
+        ![image of locale setting](images/raspi-config-keyboard2.jpg)
+        ![image of locale setting](images/raspi-config-keyboard3.jpg)
         ```bash
         sudo reboot
         ```
