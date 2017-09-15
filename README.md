@@ -63,7 +63,7 @@ Q. What do you want to make using Raspberry Pi?
         
         Here, "sudo" is a special command (only for administrators) to change or set critical settings. Any sudo command requires authentification based on the password of the current your.
         
-        System-critical operations can be done only sudoers.
+        System-critical operations can be done only by sudoers.
         
         For example, you can reboot with this command:
         ```bash
