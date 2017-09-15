@@ -101,10 +101,28 @@ Q. What do you want to make using Raspberry Pi?
         Set also default locale to "en_US.UTF-8 UTF-8." Then, wait for a while.
         ![image of locale setting](images/raspi-config-locale4.png)
         
-
-        
-* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
-* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup
+    * For other settings, see https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
+    
+4. Network setup 
+    * Because this is an "IoT" class, we will use WiFi.
+    * But, unfortunately, the built-in WiFi has a serious compatibility issues with many WiFi APs. See [here](http://forums.rasplay.org/topic/196/공지-raspberrypi-model-3b-wifi-issue) more detail.
+    * You have two solutions
+        * Replace WiFI AP (which I did for rooms 326 and 413)
+        * Add another WiFi donble 
+    * In room 326, you can setup as follows to access the WiFi 
+        Add the following lines at the end of /etc/wpa_supplicant/wpa_supplicant.conf.
+        ```
+        network={
+        ssid="RPI_5G"
+        psk="raspberry"
+        priority=1
+        }
+        network={
+        ssid="RPI"
+        psk="raspberry"
+        priority=2
+        }
+        ** DO NOT CHANGE THE FIRST THREE LINES! **
 
 
 ## Play with RPI
@@ -116,8 +134,9 @@ Hint: use "raspi-config" command
 
 Hint: use "raspi-config" command and see inside of localization options
 
+3. Remotely connect your RPI using SSH.
 
-3. Update your RPI
+4. Update your RPI
 
 ```bash
 sudo apt-get update
