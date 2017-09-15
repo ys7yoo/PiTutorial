@@ -7,7 +7,7 @@
   * 2017 Summer Short Course 
 
 ---
-# 326 Lab settings
+# Lab 326 settings
 * During the lab, you will work as a group of 2 (or 3) members. 
 * Seat arrangement 
   * Even number: Raspberry Pi 
