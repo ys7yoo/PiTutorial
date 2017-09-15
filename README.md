@@ -194,9 +194,9 @@ From now on, all the codes will be submitted through github.com
  * Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
  
 ## Exercise
-  * Make an account on github.com.
-  * Make a homepage linked with your github id on github.io. (See https://pages.github.com for steps.)
-  * Make a repository for your lab codes. Make a README.md with descrptions about your codes.
+  * Open an account on github.com.
+  * Make a homepage linked with your github id on [YOUR-ID].github.io. (See https://pages.github.com for steps.)
+  * Make a repository for your individual lab codes. Make a README.md with descrptions about your codes.
   * Make a repository for your team project. Make a README.md with descrptions about your codes.
   
 
