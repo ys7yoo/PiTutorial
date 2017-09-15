@@ -115,6 +115,11 @@ Q. What do you want to make using Raspberry Pi?
         Set also default locale to "en_US.UTF-8 UTF-8." Then, wait for a while.
         ![image of locale setting](images/raspi-config-locale4.png)
 
+    
+        ```bash
+        sudo reboot
+        ```    
+
     * Change keyboard layout
     
         Run "raspi-config" and select "4 Localization Options"> "I3 Change Keyboard layout". 
