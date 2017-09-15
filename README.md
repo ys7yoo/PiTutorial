@@ -7,7 +7,16 @@
   * 2017 Summer Short Course 
 
 ---
-  
+# 326 Lab settings
+* During the lab, you will work as a group of 2 (or 3) members. 
+* Seat arrangement 
+  * Even number: Raspberry Pi 
+     * use HDMI, keyboard, mouse, (LAN) from the PC
+     * **AFTER YOU'RE DONE. RECONNECT EVERYTHING TO THE PC!**
+  * Odd number: PC (do not remove anything from it). You will need this to google solutions for any trouble you may have. 
+* We have WiFis for Raspberry Pi in 326 (during the lab) and 413 (24h)
+
+
 # Lab 1. Intro to RPI
 ## Pre-lab Questions
 ```
