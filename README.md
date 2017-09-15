@@ -24,7 +24,9 @@ Q. What do you want to make using Raspberry Pi?
 2. Make Raspbian micro SD image
     * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
     * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/.
-        * RASPBIAN STRETCH LITE (Version:September 2017, Release date:2017-09-07, Kernel version:4.9)
+        * RASPBIAN STRETCH LITE: CLI only, preferred 
+        * RASPBIAN STRETCH WITH DESKTOP: GUI included, but slow
+        * Version:September 2017, Release date:2017-09-07, Kernel version:4.9
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
     * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see many booting logs on your screen.
@@ -93,6 +95,21 @@ Q. What do you want to make using Raspberry Pi?
 
 
 ## Play with RPI
+1. Change your hostname.
+
+Hint: use "raspi-config" command
+
+2. Change timezone.
+
+Hint: use "raspi-config" command and see inside of localization options
+
+
+3. Update your RPI
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+```
 
 ---
 
