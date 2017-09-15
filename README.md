@@ -142,7 +142,8 @@ Q. What do you want to make using Raspberry Pi?
     * You have two solutions
         * Replace WiFI AP (which I did for rooms 326 and 413)
         * Add another WiFi donble 
-    * In room 326, you can setup as follows to access the WiFi 
+    * In room 326, you can setup as follows to access the WiFi.
+    
         Add the following lines at the end of /etc/wpa_supplicant/wpa_supplicant.conf.
         ```
         network={
