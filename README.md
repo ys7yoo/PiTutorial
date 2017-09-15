@@ -63,6 +63,20 @@ Q. What do you want to make using Raspberry Pi?
         
         Here, "sudo" is a special command (only for administrators) to change or set critical settings. Any sudo command requires authentification based on the password of the current your.
         
+        System-critical operations can be done only sudoers.
+        
+        For example, you can reboot with this command:
+        ```bash
+        sudo reboot
+        ```
+        
+        You can shutdown the system with:
+        ```bash
+        sudo shutdown -h now
+        ```
+        It's a good idea to shutdown before you unplug the power. 
+        
+        
     * Using raspi-config
         In RPI, you can change any setting you like using command line commands. 
         There is an easier way. Execute: 
@@ -104,13 +118,16 @@ Q. What do you want to make using Raspberry Pi?
     * Change keyboard layout
     
         Run "raspi-config" and select "4 Localization Options"> "I3 Change Keyboard layout". 
-        Select "Generic 102-key" and default for the others. 
+        Select "Generic 102-key" and default for the others. Then reboot.
         ```bash
         sudo raspi-config
         ```
         ![image of locale setting](images/raspi-config-keyboard1.png)
         ![image of locale setting](images/raspi-config-keyboard2.png)
         ![image of locale setting](images/raspi-config-keyboard3.png)
+        ```bash
+        sudo reboot
+        ```
 
     * For other settings, see https://learn.adafruit.com/adafruits-raspberry-pi-lesson-2-first-time-configuration
     
