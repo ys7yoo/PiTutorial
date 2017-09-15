@@ -15,7 +15,7 @@
      * **AFTER YOU'RE DONE. RECONNECT EVERYTHING BACK TO THE PC!**
   * Odd number: PC (do not remove anything from it). You will need this to google solutions for any trouble you may have. 
 * We have WiFis for Raspberry Pi in 326 (during the lab) and 413 (24h)
-  * 326 (will be available shortly)
+  * 326 (during the lab)
     * SSID/pw: RPI_5G / raspberrypi
     * SSID/pw: RPI / raspberrypi
   * 413
