@@ -36,7 +36,7 @@ Q. What do you want to make using Raspberry Pi?
 
 2. Make Raspbian micro SD image
     * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
-    * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 1).
+    * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
         * RASPBIAN STRETCH LITE: CLI only, preferred 
         * RASPBIAN STRETCH WITH DESKTOP: GUI included, but slow
         * Version:September 2017, Release date:2017-09-07, Kernel version:4.9
@@ -114,12 +114,12 @@ Q. What do you want to make using Raspberry Pi?
         ```
         network={
         ssid="RPI_5G"
-        psk="raspberry"
+        psk="raspberrypi"
         priority=1
         }
         network={
         ssid="RPI"
-        psk="raspberry"
+        psk="raspberrypi"
         priority=2
         }
         ** DO NOT CHANGE THE FIRST THREE LINES! **
