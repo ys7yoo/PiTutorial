@@ -11,14 +11,14 @@ As shown in the following figure, your will write and test your python code on t
     
 ![image of git setting](images/git.jpg)
     
-1. Make a repository on github.com that you want to share with your teammate.
+### Step 1. Make a repository on github.com that you want to share with your teammate.
 
-2. Work on PC
-    1. Clone the repository to the desktop.
-    2. Add a python code.
-    3. Commit your work and push it to the repository.
+### Step 2. Work on PC
+1. Clone the repository to the desktop.
+2. Add a python code.
+3. Commit your work and push it to the repository.
         
-3. Test on RPI
+### Step 3. Test on RPI
     1. First of all, you need to install git.
 
         ```sudo apt install git```
