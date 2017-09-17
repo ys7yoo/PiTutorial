@@ -1,6 +1,18 @@
 # Lab 2. Python crash course
 
 ## Pre-lab Questions
+1. Why Python?
+
+   Read an article [here](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) about Python.
+   Summarize why Python is so popular these days.
+
+2. Set up Python development environment in your PC
+
+   You can follow a quick tutorial in https://github.com/ys7yoo/PyBasic#1-setting-up-python-environment.
+   
+3. Review git commands (clone, commit, push, pull)
+
+
 
 ## Programming with git!
 
