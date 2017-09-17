@@ -14,15 +14,11 @@ As shown in the following figure, your will write and test your python code on t
 1. Make a repository on github.com that you want to share with your teammate.
 
 2. Work on PC
-
    * Clone the repository to the desktop.
-
    * Add a python code.
-
    * Commit your work and push it to the repository.
         
 3. Test on RPI
-
    * First of all, you need to install git.
     
      ```bash
