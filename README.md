@@ -221,11 +221,11 @@ From now on, all the codes will be submitted through github.com
         
   3. Test on RPI
         
-    First of all, you need to install git.
+      First of all, you need to install git.
     
-    ```bash
-    sudo apt install git
-    ```
+      ```bash
+      sudo apt install git
+      ```
         
     Clone the repository to your RPI
     
