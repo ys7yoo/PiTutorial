@@ -22,13 +22,13 @@ As shown in the following figure, your will write and test your python code on t
 
    First of all, you need to install git.
     
-   ```bash
+   ```
    sudo apt install git
    ```
         
    Clone the repository to your RPI.
     
-   ```bash
+   ```
    git clone [ADDRESS-OF-YOUR-REPOSITORY]
    ```
         
@@ -36,11 +36,11 @@ As shown in the following figure, your will write and test your python code on t
 
    To submit changes you made to the repository,
     
-   ```bash 
+   ```
    git commit [ANY CHANGE YOU MADE]
    ```
         
-   ```bash
+   ```
    git push
    ```
 
