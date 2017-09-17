@@ -3,6 +3,7 @@
 ## Pre-lab Questions
 
 ## Programming with git!
+
 We will actively use git in our labs. 
 
 Today, we will make full use of **1 PC + 1 RPI** setup in room 326.
@@ -17,11 +18,13 @@ As shown in the following figure, your will write and test your python code on t
         
 3. Test on RPI
     * First of all, you need to install git.
+    
         ```bash
         sudo apt install git
         ```
         
     * Clone the repository to your RPI
+    
         ```bash
         git clone [ADDRESS-OF-YOUR-REPOSITORY]
         ```
@@ -29,6 +32,7 @@ As shown in the following figure, your will write and test your python code on t
     * Run and make any change you want.
 
     * To submit changes you made to the repository,
+    
         ```bash 
         git commit [ANY CHANGE YOU MADE]
         ```
