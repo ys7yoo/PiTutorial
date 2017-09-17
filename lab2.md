@@ -20,21 +20,21 @@ As shown in the following figure, your will write and test your python code on t
         
 3. Test on RPI
 
-   First of all, you need to install git.
+   * First of all, you need to install git.
 
    ```
    sudo apt install git
    ```
 
-   Clone the repository to your RPI.
+   * Clone the repository to your RPI.
 
    ```
    git clone [ADDRESS-OF-YOUR-REPOSITORY]
    ```
 
-   Run and make any change you want.
+   * Run and make any change you want.
 
-   To submit changes you made to the repository,
+   * To submit changes you made to the repository,
 
    ```
    git commit [ANY CHANGE YOU MADE]
