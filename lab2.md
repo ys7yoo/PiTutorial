@@ -26,10 +26,25 @@ As shown in the following figure, your will write and test your python code on t
 
 
 ### Step 2. Work on PC
+
+0. Install Git for windows (or Source Tree)
+
 1. Clone the repository to the desktop.
+
+```bash
+git clone [ADDRESS OF YOUR REPOSITORY]
+cd [NAME OF THE REPOSITORY]
+```
+
 2. Add a python code.
+
 3. Commit your work and push it to the repository.
-        
+
+```bash
+git commit [ANY CHANGE YOU MADE]
+git push
+```
+
 ### Step 3. Test on RPI
 1. First of all, you need to install git.
 
