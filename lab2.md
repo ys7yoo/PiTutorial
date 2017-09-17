@@ -15,11 +15,11 @@ As shown in the following figure, your will write and test your python code on t
 
 2. Work on PC
 
-  Clone the repository to the desktop.
+   Clone the repository to the desktop.
 
-  Add a python code.
+   Add a python code.
 
-  Commit your work and push it to the repository.
+   Commit your work and push it to the repository.
 
         
 3. Test on RPI
