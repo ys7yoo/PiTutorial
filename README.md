@@ -156,6 +156,7 @@ Q. What do you want to make using Raspberry Pi?
         psk="raspberrypi"
         priority=2
         }
+        ```
         ** DO NOT CHANGE THE FIRST THREE LINES! **
 
 
@@ -212,7 +213,7 @@ From now on, all the codes will be submitted through github.com
     We will actively use git in our labs. Today, we will make full use of **1 PC + 1 RPI** setup in lab 326. 
     As shown in the following figure, your will write and test your python code on the desktop. After you're sure that code is ready to be run on RPI, you will get it and run it on RPI. 
     
-    ![image of locale setting](images/git.jpg)
+    ![image of git setting](images/git.jpg)
     
     1. Make a repository on github.com
        
