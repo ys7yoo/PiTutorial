@@ -13,6 +13,18 @@ As shown in the following figure, your will write and test your python code on t
     
 ### Step 1. Make a repository on github.com that you want to share with your teammate.
 
+1. Go to [github.com](https://github.com) and log in. 
+
+2. Click "New repository" button to create a new one. 
+
+3. Create a README.md file!
+
+4. Add your teammate as a collaborator of the repository
+
+   In the repository you made, you can add a collaborator from "Settings" > " "Collaboratiors" menu.
+   
+
+
 ### Step 2. Work on PC
 1. Clone the repository to the desktop.
 2. Add a python code.
