@@ -222,6 +222,7 @@ As shown in the following figure, your will write and test your python code on t
   Clone the repository to the desktop and add a python code.
         
 3. Test on RPI
+
   First of all, you need to install git.
   ```bash
   sudo apt install git
