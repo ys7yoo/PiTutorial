@@ -144,7 +144,7 @@ Q. What do you want to make using Raspberry Pi?
         * Add another WiFi donble 
     * In room 326, you can setup as follows to access the WiFi.
     
-        Add the following lines at the end of /etc/wpa_supplicant/wpa_supplicant.conf.
+        **ADD** the following lines at the end of /etc/wpa_supplicant/wpa_supplicant.conf. (**DO NOT CHANGE THE FIRST THREE LINES!**)
         ```
         network={
         ssid="RPI_5G"
@@ -157,7 +157,7 @@ Q. What do you want to make using Raspberry Pi?
         priority=2
         }
         ```
-        ** DO NOT CHANGE THE FIRST THREE LINES! **
+
 
 
 ## Play with RPI
@@ -209,7 +209,6 @@ From now on, all the codes will be submitted through github.com
 ## Pre-lab Questions
 
 ## Programming with git!
-
     We will actively use git in our labs. Today, we will make full use of **1 PC + 1 RPI** setup in lab 326. 
     As shown in the following figure, your will write and test your python code on the desktop. After you're sure that code is ready to be run on RPI, you will get it and run it on RPI. 
     
