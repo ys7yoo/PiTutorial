@@ -209,39 +209,40 @@ From now on, all the codes will be submitted through github.com
 ## Pre-lab Questions
 
 ## Programming with git!
-    We will actively use git in our labs. Today, we will make full use of **1 PC + 1 RPI** setup in lab 326. 
-    As shown in the following figure, your will write and test your python code on the desktop. After you're sure that code is ready to be run on RPI, you will get it and run it on RPI. 
+  We will actively use git in our labs. Today, we will make full use of 1 PC + 1 RPI setup in lab 326.
+  As shown in the following figure, your will write and test your python code on the desktop. After you're sure that code is ready to be run on RPI, you will get it and run it on RPI.
     
-    ![image of git setting](images/git.jpg)
+  ![image of git setting](images/git.jpg)
     
-    1. Make a repository on github.com
+  1. Make a repository on github.com
        
-        Make a repository on github that you want to share with your teammate.
+    Make a repository on github that you want to share with your teammate.
 
-    2. Work on PC
-        Clone the repository to the desktop and add a python code.
+  2. Work on PC
+    Clone the repository to the desktop and add a python code.
         
-    3. Test on RPI
+  3. Test on RPI
         
-        For that, you need to install git.
-        ```bash
-        sudo apt install git
-        ```
+    For that, you need to install git.
+    ```bash
+    sudo apt install git
+    ```
         
-        Clone the repository to your RPI         
-        ```bash
-        git clone [ADDRESS-OF-YOUR-REPOSITORY]
-        ```
+    Clone the repository to your RPI         
+    ```bash
+    git clone [ADDRESS-OF-YOUR-REPOSITORY]
+    ```
         
-        Ruan and make any change you want.
+    Run and make any change you want.
+
+    To submit changes you made to the repository,
+    ```bash 
+    git commit [ANY CHANGE YOU MADE]
+    ```
         
-        ```bash 
-        git commit [ANY CHANGE YOU MADE]
-        ```
-        
-        ```bash
-        git push
-        ```
+    ```bash
+    git push
+    ```
         
 
         
