@@ -123,7 +123,7 @@ Q. What do you want to make using Raspberry Pi?
     * Change keyboard layout
     
         Run "raspi-config" and select "4 Localization Options"> "I3 Change Keyboard layout". 
-        Select "Generic 102-key" and default for the others. Then reboot.
+        Select "Generic 102-key", "English(US)", and default for the others. Then reboot.
         ```bash
         sudo raspi-config
         ```
