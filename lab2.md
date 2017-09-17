@@ -15,37 +15,37 @@ As shown in the following figure, your will write and test your python code on t
 
 2. Work on PC
 
-   Clone the repository to the desktop.
+   * Clone the repository to the desktop.
 
-   Add a python code.
+   * Add a python code.
 
-   Commit your work and push it to the repository.
+   * Commit your work and push it to the repository.
 
         
 3. Test on RPI
-    * First of all, you need to install git.
+   * First of all, you need to install git.
     
-        ```bash
-        sudo apt install git
-        ```
+     ```bash
+     sudo apt install git
+     ```
         
-    * Clone the repository to your RPI
+   * Clone the repository to your RPI
     
-        ```bash
-        git clone [ADDRESS-OF-YOUR-REPOSITORY]
-        ```
+     ```bash
+     git clone [ADDRESS-OF-YOUR-REPOSITORY]
+     ```
         
-    * Run and make any change you want.
+   * Run and make any change you want.
 
-    * To submit changes you made to the repository,
+   * To submit changes you made to the repository,
     
-        ```bash 
-        git commit [ANY CHANGE YOU MADE]
-        ```
+     ```bash 
+     git commit [ANY CHANGE YOU MADE]
+     ```
         
-        ```bash
-        git push
-        ```
+     ```bash
+     git push
+     ```
         
 
         
