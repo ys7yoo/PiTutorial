@@ -1,3 +1,5 @@
+**THIS IS A DRAFT BEFORE MERGED TO README.MD**
+
 # Lab 2. Python crash course
 
 ## Pre-lab Questions
