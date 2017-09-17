@@ -214,16 +214,14 @@ From now on, all the codes will be submitted through github.com
     
   ![image of git setting](images/git.jpg)
     
-  1. Make a repository on github.com
-       
-    Make a repository on github that you want to share with your teammate.
+  1. Make a repository on github.com that you want to share with your teammate.
 
   2. Work on PC
     Clone the repository to the desktop and add a python code.
         
   3. Test on RPI
         
-    For that, you need to install git.
+    First of all, you need to install git.
     ```bash
     sudo apt install git
     ```
