@@ -19,32 +19,31 @@ As shown in the following figure, your will write and test your python code on t
    * Commit your work and push it to the repository.
         
 3. Test on RPI
-   * First of all, you need to install git.
-    
-     ```bash
-     sudo apt install git
-     ```
-        
-   * Clone the repository to your RPI
-    
-     ```bash
-     git clone [ADDRESS-OF-YOUR-REPOSITORY]
-     ```
-        
-   * Run and make any change you want.
 
-   * To submit changes you made to the repository,
+   First of all, you need to install git.
     
-     ```bash 
-     git commit [ANY CHANGE YOU MADE]
-     ```
-        
-     ```bash
-     git push
-     ```
-        
+   ```bash
+   sudo apt install git
+   ```
+        
+   Clone the repository to your RPI.
+    
+   ```bash
+   git clone [ADDRESS-OF-YOUR-REPOSITORY]
+   ```
+        
+   Run and make any change you want.
 
+   To submit changes you made to the repository,
+    
+   ```bash 
+   git commit [ANY CHANGE YOU MADE]
+   ```
         
+   ```bash
+   git push
+   ```
+
 ## Setting up python environment
 https://github.com/ys7yoo/PiTutorial/blob/master/README.md#lab-2-python-crash-course
 
