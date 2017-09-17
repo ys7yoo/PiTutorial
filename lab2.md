@@ -14,7 +14,7 @@
 
 
 
-## Programming with git!
+## Working with git!
 
 We will actively use git in our labs. 
 
@@ -80,8 +80,8 @@ git commit [ANY CHANGE YOU MADE]
 git push
 ```
 
-## Setting up python environment
-https://github.com/ys7yoo/PiTutorial/blob/master/README.md#lab-2-python-crash-course
-
 ## Python 3 programming
+
+Now, let's start Python programming!
+
 https://github.com/ys7yoo/PyBasic#2-python-3-programming
