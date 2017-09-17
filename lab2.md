@@ -25,13 +25,13 @@ As shown in the following figure, your will write and test your python code on t
 
     2. Clone the repository to your RPI.
 
-        ```git clone [ADDRESS-OF-YOUR-REPOSITORY]```
+        ```git clone [ADDRESS-OF-YOUR-REPOSITORY] ```
         
     3. Run and make any change you want.
     
     4. To submit changes you made to the repository,
     
-        ```bash
+        ```
         git commit [ANY CHANGE YOU MADE]
         git push
         ```
