@@ -26,16 +26,15 @@ As shown in the following figure, your will write and test your python code on t
     2. Clone the repository to your RPI.
 
         ```git clone [ADDRESS OF YOUR REPOSITORY]```
-        
+
     3. Run and make any change you want.
-    
+
     4. To submit changes you made to the repository,
-    
+
         ```
         git commit [ANY CHANGE YOU MADE]
         git push
         ```
-
 
 ## Setting up python environment
 https://github.com/ys7yoo/PiTutorial/blob/master/README.md#lab-2-python-crash-course
