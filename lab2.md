@@ -14,22 +14,22 @@ As shown in the following figure, your will write and test your python code on t
 1. Make a repository on github.com that you want to share with your teammate.
 
 2. Work on PC
-   * Clone the repository to the desktop.
-   * Add a python code.
-   * Commit your work and push it to the repository.
+    1. Clone the repository to the desktop.
+    2. Add a python code.
+    3. Commit your work and push it to the repository.
         
 3. Test on RPI
-   1. First of all, you need to install git.
+    1. First of all, you need to install git.
 
         ```sudo apt install git```
 
-   2. Clone the repository to your RPI.
+    2. Clone the repository to your RPI.
 
         ```git clone [ADDRESS-OF-YOUR-REPOSITORY]```
         
-   3. Run and make any change you want.
+    3. Run and make any change you want.
     
-   4. To submit changes you made to the repository,
+    4. To submit changes you made to the repository,
     
         ```bash
         git commit [ANY CHANGE YOU MADE]
