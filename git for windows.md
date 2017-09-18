@@ -1,6 +1,7 @@
 ## Installing git for windows 
 
 
+
 ### Step 1. Get the latest version
 
 Google "git for windows" 
@@ -10,4 +11,4 @@ Click "Download" button.
 
 Donload Git-2.14.1-**64**-bit.exe or Git-2.14.1-**32**-bit.exe, depending on your system.
 
-### Step. 2. 
+### Step. 2. Install
