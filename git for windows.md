@@ -11,7 +11,7 @@ Click "Download" button.
 
 Downloding Git-2.14.1-**64**-bit.exe or Git-2.14.1-**32**-bit.exe (depending on your system) should automatically start.
 
-### Step 2. Install
+### Step 2. Installing & configuring 
 
 Run the installer.
 
