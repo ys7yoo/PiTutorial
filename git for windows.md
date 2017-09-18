@@ -54,4 +54,4 @@ Then you will see a bash CLI window like this.
 
 ![](images/git-bash.jpg)
 
-Here, you can make full use of Bash!
+Here, you can make full use of Bash, which a great news!
