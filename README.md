@@ -197,9 +197,9 @@ From now on, all the codes will be submitted through github.com
 ## Exercise
   * Install git on your system. 
   
-    On Ubuntu, you can simply run:
+    On Ubuntu, you can install git using apt-get:
        ```bash
-       sudo apt install git
+       sudo apt-get install git
        ```
 
     On OSX, first install [Macport](https://www.macports.org/install.php) and then install git:
@@ -207,7 +207,7 @@ From now on, all the codes will be submitted through github.com
        sudo port install git
        ```
 
-    On MS Windows, install git for windows. Here is a [guideline](https://github.com/ys7yoo/PiTutorial/blob/master/git%20for%20windows.md). 
+    On MS Windows, install "git for windows". Here is a [guideline](https://github.com/ys7yoo/PiTutorial/blob/master/git%20for%20windows.md). 
        
   * Open an account on github.com.
   * Make a homepage linked with your github id on [YOUR-ID].github.io. (See https://pages.github.com for steps.)
