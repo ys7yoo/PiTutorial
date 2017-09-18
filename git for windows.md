@@ -11,4 +11,47 @@ Click "Download" button.
 
 Downloding Git-2.14.1-**64**-bit.exe or Git-2.14.1-**32**-bit.exe (depending on your system) should automatically start.
 
-### Step. 2. Install
+### Step 2. Install
+
+Run the installer.
+
+There are many options for detail settings. 
+Recommended settings are as follows.
+
+1. Check the license and click "Next" button.
+
+    ![](images/git1.jpg)
+
+2. Check "additional icons" and "Windows Explorer integration."
+
+    ![](images/git2.jpg)
+3. Choose "Use Git from Git-Bash only," which is the safest option!
+
+    ![](images/git3.jpg)
+
+4. Keep the default option.
+
+    ![](images/git4.jpg)
+
+5. Keep the default option.
+
+    ![](images/git5.jpg)
+
+6. Keep the default option.
+
+    ![](images/git7.jpg)
+    
+7. Keep the default option and click "Install" button.
+
+    ![](images/git8.jpg)
+
+
+
+### Step 3. Using it
+
+Launch "Git Bash."
+Then you will see a bash CLI window like this.
+
+![](images/git-bash.jpg)
+
+Here, you can make full use of Bash!
