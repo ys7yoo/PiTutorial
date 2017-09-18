@@ -43,7 +43,7 @@ Q. What do you want to make using Raspberry Pi?
     * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
         * RASPBIAN STRETCH LITE: CLI only, preferred 
         * RASPBIAN STRETCH WITH DESKTOP: GUI included, but slow
-        * Version:September 2017, Release date:2017-09-07, Kernel version:4.9
+        * Version: September 2017, Release date:2017-09-07, Kernel version:4.9
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
     * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see four raspberries and many booting logs on your screen.
