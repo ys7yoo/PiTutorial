@@ -62,18 +62,22 @@ For example, you can clone a repository:
 git clone [ADDRESS OF REPOSITORY]
 ```
 
+Move into the local repository:
 ```bash 
 cd [NAME OF THE REPOSITORY]
 ```
 
+Check status of the local repository:
 ```bash
 git status
 ```
 
+Commit changes you made in the local repository:
 ```bash
 git commit [ANY CHANGE YOU WANT TO COMMIT]
 ```
 
+Push all the commits to the remote repository.
 ```bash
 git push
 ```
