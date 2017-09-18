@@ -195,6 +195,19 @@ From now on, all the codes will be submitted through github.com
  * Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
  
 ## Exercise
+  * Install git on your system. 
+    On Ubuntu, you can simply run:
+       ```bash
+       sudo apt install git
+       ```
+
+    On OSX, first install [Macport](https://www.macports.org/install.php) and then install git:
+       ```bash
+       sudo port install git
+       ```
+
+    On MS Windows, install git for windows. Here is a [guideline](https://github.com/ys7yoo/PiTutorial/blob/master/git%20for%20windows.md). 
+       
   * Open an account on github.com.
   * Make a homepage linked with your github id on [YOUR-ID].github.io. (See https://pages.github.com for steps.)
   * Make a repository for your individual lab codes. Make a README.md with descrptions about your codes.
