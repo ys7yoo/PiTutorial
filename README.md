@@ -196,6 +196,7 @@ From now on, all the codes will be submitted through github.com
  
 ## Exercise
   * Install git on your system. 
+  
     On Ubuntu, you can simply run:
        ```bash
        sudo apt install git
