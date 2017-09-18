@@ -214,7 +214,7 @@ From now on, all the codes will be submitted through github.com
     On MS Windows, install "git for windows". Here is a [guideline](https://github.com/ys7yoo/PiTutorial/blob/master/git%20for%20windows.md). 
        
   * Open an account on github.com.
-  * Make a homepage linked with your github id on [YOUR-ID].github.io. (See https://pages.github.com for steps.)
+  * Make a homepage linked to your github id on [YOUR-ID].github.io. (See https://pages.github.com for steps.)
   * Make a repository for your individual lab codes. Make a README.md with descrptions about your codes.
   * Make a repository for your team project. Make a README.md with descrptions about your codes.
   
