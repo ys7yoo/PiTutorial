@@ -54,4 +54,27 @@ Then you will see a bash CLI window like this.
 
 ![](images/git-bash.jpg)
 
-Here, you can make full use of Bash, which a great news!
+Here, you can use the full-fledged Bash on windows!
+
+
+For example, you can clone a repository:
+```bash
+git clone [ADDRESS OF REPOSITORY]
+```
+
+```bash 
+cd [NAME OF THE REPOSITORY]
+```
+
+```bash
+git status
+```
+
+```bash
+git commit [ANY CHANGE YOU WANT TO COMMIT]
+```
+
+```bash
+git push
+```
+
