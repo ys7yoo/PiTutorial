@@ -9,6 +9,6 @@ or go to [https://git-for-windows.github.io](https://git-for-windows.github.io).
 
 Click "Download" button.
 
-Donload Git-2.14.1-**64**-bit.exe or Git-2.14.1-**32**-bit.exe, depending on your system.
+Downloding Git-2.14.1-**64**-bit.exe or Git-2.14.1-**32**-bit.exe (depending on your system) should automatically start.
 
 ### Step. 2. Install
