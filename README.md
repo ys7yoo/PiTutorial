@@ -10,10 +10,12 @@
 # Lab 326 settings
 * During the lab, you will work as a group of 2 (or 3) members. 
 * Seat arrangement 
-    * **Even** number: Raspberry Pi 
-        * use HDMI, keyboard, mouse, (LAN) from the PC
-        * **AFTER YOU'RE DONE. RECONNECT EVERYTHING BACK TO THE PC!**
     * **Odd** number: PC (do not remove anything from it). You will need this to google solutions for any troubles you may have. 
+    * **Even** number: Raspberry Pi 
+        * Do not remove keyboard or mouse from the PC. Extra keyboards and mouses are provided during the lab.
+        * You're recommended to use WiFi to connect you RPI to the internet. But, if you need wired connection with static IP, you may use the ethernet cable from your PC. When you're done, please put it back to the PC. 
+        * Connect HDMI cable to your RPI and the display. Then, don't forget to change the input of your display to HDMI.
+        * **AFTER YOU'RE DONE. PUT EVERYTHING BACK!**    
 * We have WiFis for Raspberry Pi in 326 (during the lab) and 413 (24h). Access info is as follows. 
     * 326 (during the lab)
         * SSID/pw: RPI_5G / raspberrypi
