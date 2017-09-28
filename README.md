@@ -222,6 +222,32 @@ From now on, all the codes will be submitted through github.com
   
 
 
+# [Demo] Lab 1 and Git 
+ Bring your RPI to the front and show us the following.
+
+1. WiFi setup 
+   In the terminal, 
+   1) show /etc/wpa_supplicant/wpa_supplicant.conf using a text editor. 
+   2) check connection to the AP.
+       ```
+       ping 192.168.0.1
+       ```
+
+   3) check connection to an external website. 
+       ```
+       ping www.google.com
+       ```
+       
+2. Git
+
+    1) Clone a remote repository in your GitHub to your RPI
+
+    2) Make some changes.
+
+    3) Commit the change to the local repository
+
+    4) Push the change to the remote repository (GitHub)
+    
 ---
 
 # Lab 2. Python crash course
