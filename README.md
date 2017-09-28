@@ -144,7 +144,7 @@ Q. What do you want to make using Raspberry Pi?
     
 4. Network setup 
     * Because this is an "IoT" class, we will use WiFi.
-    * But, unfortunately, the built-in WiFi has a serious compatibility issues with many WiFi APs. See [here](http://forums.rasplay.org/topic/196/공지-raspberrypi-model-3b-wifi-issue) more detail.
+    * But, unfortunately, the built-in WiFi has a serious compatibility issues with many WiFi APs. See [here](http://forums.rasplay.org/topic/196/공지-raspberrypi-model-3b-wifi-issue) for more detail.
     * You have two solutions
         * Replace WiFI AP (which I did for rooms 326 and 413)
         * Add another WiFi dongle 
@@ -274,17 +274,22 @@ git clone [ADDRESS OF YOUR REPOSITORY]
 cd [NAME OF THE REPOSITORY]
 ```
 
-2. Add a python code.
+2. Add a python code to the folder.
 
-3. Commit your work and push it to the repository.
+3. You can check your code in https://repl.it
+
+4. When your code is ready, commit your work and push it to the repository.
 
 ```bash
 git commit [ANY CHANGE YOU MADE]
 git push
 ```
 
+5. Check that the change is applied to your github repository.
+
+
 ### Step 3. Test on RPI
-1. First of all, you need to install git.
+1. First of all, you need to install git on your RPI.
 
 ```bash
 sudo apt install git
