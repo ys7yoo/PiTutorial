@@ -302,6 +302,12 @@ cd [NAME OF THE REPOSITORY]
 
 2. Add a python code to the folder.
 
+You can add the file to the reposibory by
+```
+git add [FILE NAME]
+```
+
+
 3. You can check your code in https://repl.it
 
 4. When your code is ready, commit your work and push it to the repository.
