@@ -302,7 +302,7 @@ cd [NAME OF THE REPOSITORY]
 
 2. Add a python code to the folder.
 
-You can add the file to the reposibory by
+You can add the file to the LOCAL reposibory by
 ```
 git add [FILE NAME]
 ```
