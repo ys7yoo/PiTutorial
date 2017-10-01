@@ -310,7 +310,7 @@ git add [FILE NAME]
 
 3. You can check your code in https://repl.it
 
-4. When your code is ready, commit your work and push it to the repository.
+4. When your code is ready, commit your work and push it to the REMOTE repository.
 
 ```bash
 git commit [ANY CHANGE YOU MADE]
@@ -336,7 +336,7 @@ cd [NAME OF THE REPOSITORY]
 
 3. Run and make any change you want.
 
-4. To submit changes you made to the repository,
+4. To submit changes you made to the REMOTE repository,
 
 ```bash
 git commit [ANY CHANGE YOU MADE]
