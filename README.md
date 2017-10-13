@@ -164,7 +164,11 @@ Q. What do you want to make using Raspberry Pi?
         }
         ```
 
+        Then, reboot.
 
+        ```bash
+        sudo reboot
+        ```
 
 ## Play with RPI
 1. Change your hostname.
