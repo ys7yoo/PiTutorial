@@ -365,11 +365,13 @@ Read the article on https://www.raspberrypi.org/documentation/usage/gpio-plus-an
 Q. What is GPIO?
 
 Q. How does this electrical circuit work? (Explain what happens when the switch turns on or off.)
+
 ![image of simple circuit](images/circuit-led.png)
 
 Read the article on https://playground.arduino.cc/CommonTopics/PullUpDownResistor and answer the following question
 
 Q. How does the switch with the pull down register work? (Explain what happens when the switch turns on or off.)
+
 ![image of pull down register](images/pulldown.png)
 
 ## Overview
