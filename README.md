@@ -372,7 +372,10 @@ Read the article on https://playground.arduino.cc/CommonTopics/PullUpDownResisto
 Q. How does the switch with the pull down register work? (Explain what happens when the switch turns on or off.)
 ![image of pull down register](images/pulldown.png)
 
-## The big picture
+## Overview
+Today, we will make a thing that interact with the envorinment.
+
+![image of thing](images/thing.png)
 
 ## Acting
 
