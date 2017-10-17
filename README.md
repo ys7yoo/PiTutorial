@@ -418,7 +418,7 @@ GPIO.cleanup()
 ```
 
 The code is in https://github.com/ys7yoo/PiTutorial/blob/master/src/led.py.
-You may download and run it as follows.
+You can download and run it as follows.
 ```bash
 wget https://github.com/ys7yoo/PiTutorial/blob/master/src/led.py
 python3 led.py
