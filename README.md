@@ -375,7 +375,7 @@ Q. How does the switch with the pull down register work? (Explain what happens w
 ![image of pull down register](images/pulldown.png)
 
 ## Overview
-Today, we will make a thing that interact with the envorinment through GPIO.
+Today, we will make a thing that interacts with the envorinment through GPIO.
 
 ![image of thing](images/thing.png)
 
