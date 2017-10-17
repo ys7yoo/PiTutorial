@@ -379,6 +379,11 @@ Today, we will make a thing that interact with the envorinment.
 
 ## Acting
 
+We will start from a simple example of blinking an LED. 
+
+GPIO pins of Raspberry Pi 3B: 
+![GPIO pin info](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/images/gpio-numbers-pi2.png)
+
 ## Sensing
 
 
