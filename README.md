@@ -370,9 +370,15 @@ Q. How does this electrical circuit work? (Explain what happens when the switch 
 Read the article on https://playground.arduino.cc/CommonTopics/PullUpDownResistor and answer the following question
 
 Q. How does the switch with the pull down register work? (Explain what happens when the switch turns on or off.)
+![image of pull down register](images/pulldown.png)
+
+## The big picture
+
+## Acting
+
+## Sensing
 
 
-## Installation!
 
 
 
