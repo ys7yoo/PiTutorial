@@ -384,6 +384,15 @@ We will start from a simple example of blinking an LED.
 GPIO pins of Raspberry Pi 3B: 
 ![GPIO pin info](images/gpio-pins.png)
 
+
+![GPIO and LED](images/gpio-led.png)
+
+
+Install packages
+
+Python Code
+
+
 ## Sensing
 
 
