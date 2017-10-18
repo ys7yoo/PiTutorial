@@ -147,20 +147,20 @@ Q. What do you want to make using Raspberry Pi?
     * But, unfortunately, the built-in WiFi has a serious compatibility issues with many WiFi APs. See [here](http://forums.rasplay.org/topic/196/공지-raspberrypi-model-3b-wifi-issue) for more detail.
     * You have two solutions
         * Replace WiFI AP (which I did for rooms 326 and 413)
-        * Add another WiFi dongle 
+        * Add another WiFi dongle to your RPI 
     * In room 326, you can setup as follows to access the WiFi.
     
         **ADD** the following lines at the end of /etc/wpa_supplicant/wpa_supplicant.conf. (**DO NOT CHANGE THE FIRST THREE LINES!**)
         ```
         network={
-        ssid="RPI_5G"
-        psk="raspberrypi"
-        priority=1
+            ssid="RPI_5G"
+            psk="raspberrypi"
+            priority=1
         }
         network={
-        ssid="RPI"
-        psk="raspberrypi"
-        priority=2
+            ssid="RPI"
+            psk="raspberrypi"
+            priority=2
         }
         ```
 
