@@ -393,8 +393,8 @@ Be careful about the polarity of the LED! You must connect anode (+, longer leg)
 ![GPIO and LED](images/gpio-led.png)
 
 Grant yourself the access to GPIO.
-If you're wokring witn the default user id (pi), you can skip this part.
-But, if you made a new account and working with it, you should get access to the GPIO and reboot.
+If you're wokring witn the default user id (pi), you can skip this step.
+But, if you made a new account and are working with it, you should get access to the GPIO and reboot.
 
 ```bash
 sudo adduser [YOUR ID] gpio
