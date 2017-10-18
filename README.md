@@ -355,7 +355,7 @@ A list of key concepts about Python 3 is here: https://github.com/ys7yoo/PyBasic
 Read each topic and run sample codes with your teammate. 
 
 
-# [DEMO] Lab 2 Python exercises
+# [DEMO] Lab 2. Git \& Python exercises
 1. Show your repository on GitHub. (Use the front PC.)
 
 2. Show the local copy of the repository in your RPI. (Connect your RPI to HDMI input on the wall.)
