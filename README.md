@@ -24,7 +24,7 @@
         * Register and get access info from [here](http://smart.inu.ac.kr/eecs/).
 * **NO FOOD IN THE LAB!**
     * If you bring any food, your grade goes down by one level.
-    * NO SNACK! NO COFFEE! NO JUICE! NO TEE!
+    * NO SNACK! NO COFFEE! NO JUICE! NO TEA!
     * The only exception is water WITH A CAP. 
 
 # Lab 1. Intro to RPI
