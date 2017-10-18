@@ -59,7 +59,7 @@ Q. What do you want to make using Raspberry Pi?
         ```bash
         passwd
         ```
-        Account "pi" is an administrator. So, it's very important to use a strong password to secure you system. 
+        Account "pi" is an administrator. So, it's very important to use a strong password to secure your system. 
 
         It's also a good idea to make a new id that you like and make it an administrator. You can do it as follows.
         ```bash
