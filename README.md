@@ -354,6 +354,9 @@ Now, let's start Python programming!
 A list of key concepts about Python 3 is here: https://github.com/ys7yoo/PyBasic#2-python-3-programming.
 Read each topic and run sample codes with your teammate. 
 
+
+# [DEMO] Lab 2 Python exercises
+
 ---
 
 # Lab 3. GPIO
