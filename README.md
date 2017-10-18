@@ -392,8 +392,16 @@ Be careful about the polarity of the LED! You must connect anode (+, longer leg)
 
 ![GPIO and LED](images/gpio-led.png)
 
+Grant yourself the access to GPIO.
+If you're wokring witn the default user id (pi), you can skip this part.
+But, if you made a new account and working with it, you should get access to the GPIO and reboot.
 
-Install the GPIO package for Python 3. 
+```bash
+sudo adduser [YOUR ID] gpio
+sudo reboot
+```
+
+Install the Raspberry Pi GPIO package for Python 3. 
 
 ```bash
 pip3 install rpi.gpio
