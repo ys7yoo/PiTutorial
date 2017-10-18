@@ -67,7 +67,7 @@ Q. What do you want to make using Raspberry Pi?
         sudo adduser [ID YOU WANT] sudo
         ```
         
-        Here, "sudo" is a special command (only for administrators) to change or set critical settings. Any sudo command requires authentification based on the password of the current your.
+        Here, "sudo" is a special command (only for administrators) to change or set critical system settings. Any sudo command requires authentification based on the password of the current your.
         
         System-critical operations can be done only by sudoers.
         
