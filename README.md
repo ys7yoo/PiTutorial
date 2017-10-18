@@ -106,7 +106,7 @@ Q. What do you want to make using Raspberry Pi?
     * Change locale
     
         By default, RPI is set up for British English and British keyboards. The former may not a big problem, but the latter is. With default setting, you may not type special characters like " or #!
-        So, let's change the locale using raspi-config. 
+        So, let's change the locale and keyboard layout using raspi-config. 
         
         Run "raspi-config" and select "4 Localization Options" > "I1 Change Locale"
         ```bash
