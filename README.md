@@ -384,10 +384,11 @@ Today, we will make a thing that interacts with the envorinment through GPIO.
 
 We will start from a simple example of blinking an LED. 
 
-GPIO pins of Raspberry Pi 3B: 
+Check the arrangement of GPIO pins of Raspberry Pi 3B: 
 ![GPIO pin info](images/gpio-pins.png)
 
-
+Choose a GPIO port and a GND port. Put a LED and a resistor in series, and connect them to the selected ports.
+Be careful about the polarity of the LED! You must connect anode (+, longer leg) to the GPIO port and cathode(-, shorter leg) to the resister
 ![GPIO and LED](images/gpio-led.png)
 
 
