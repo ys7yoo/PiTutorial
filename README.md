@@ -455,7 +455,8 @@ python3 led.py
 
 ## Tips
 ### Cobbler
-With Cobbler and cable, you can "dump" all the RPI ports and connect to you breadboard.
+With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
+
 ![Cobbler](images/cobbler.jpg)
 
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/the-gpio-connector
