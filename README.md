@@ -71,7 +71,7 @@ Q. What do you want to make using Raspberry Pi?
         
         System-critical operations can be done only by sudoers.
         
-        For example, you can reboot with this command:
+        For example, you can reboot your RPI with this command:
         ```bash
         sudo reboot
         ```
