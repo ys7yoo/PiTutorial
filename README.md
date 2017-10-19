@@ -457,11 +457,8 @@ By setting a GPIO port as an input port, you can read the state of the pushbutto
 The pulldown resister is used to make sure that no (or very little) current flows when the switch is off. 
 
 1. Choose GPIO (16), +3.3, and GND ports and connect them to a pushbutton and a resister as shown in the following figure. 
-Note that you put the switch and the resistor in series and wire the GPIO port to one side of the resister.
+Note that you put the pushbutton and the resistor in series and wire the GPIO port to one side of the resister.
 ![GPIO and pushbutton](images/push.jpg)
-
-make a ci. Put a LED and a resistor in series, and connect them to the selected ports.
-Be careful about the polarity of the LED! You must connect anode (+, longer leg) to the GPIO port and cathode(-, shorter leg) to the resister.
 
 
 2. Run the following Python code and check the output changes from 0 to 1 as you push the pushbutton.
@@ -494,10 +491,15 @@ python3 push.py
 
 ## Combining acting and sensing
 
-Read the switch state and show it using the LED.
+Next, let's combine acting and sensing. 
+Using the two Python codes (led.py and push.py) as a starting point, write a new code that read the switch state and show it using the LED.
 
 
 ## Tips
+
+### Breadboard
+If you're new to electronics lab and breadboard, check https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard.
+
 ### Cobbler
 With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
