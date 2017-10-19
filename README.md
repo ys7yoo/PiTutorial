@@ -451,7 +451,11 @@ python3 led.py
 
 ## Sensing
 
-Next step is to read the status of a switch. 
+Next step is to sense the input from the environment. 
+Let's start from a simplest possible case: read a digital input (0 or 1). 
+
+Let's read the state of the pushbutton using the pulldown resister.
+
 
 ```python
 # import required libraries
