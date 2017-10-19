@@ -401,6 +401,7 @@ Be careful about the polarity of the LED! You must connect anode (+, longer leg)
 ![GPIO and LED](images/gpio-led.png)
 
 3. Grant yourself the access to GPIO.
+
 If you're wokring with the default user id (pi), you can skip this step.
 But, if you made a new account and are working with it, you should get access to the GPIO and reboot.
 
