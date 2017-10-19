@@ -471,7 +471,9 @@ for i in range(30):
 GPIO.cleanup()
 ```
 
+## Combining acting and sensing
 
+Read the switch state and show it using the LED.
 
 
 ## Tips
