@@ -495,6 +495,13 @@ python3 push.py
 Next, let's combine acting and sensing. 
 Using the two Python codes (led.py and push.py) as a starting point, write a new code that read the switch state and show it using the LED.
 
+## Use case study
+Today, you learned how to sense and act through GPIO. You can replace led and pushbutton with other sensors and actuators.
+For example, you can sense the temparature of the room and act something clever (e.g. turn on the hitter if it's too cold.)
+
+Based on your term project topic, write a (simple) use case for an interacting thing. 
+Hook up your RPI to a sensor and an actuator for the use case.
+Play with it and write what you learn from the experiments.
 
 ## Tips
 
@@ -511,4 +518,8 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 * http://www.devicemart.co.kr/1330569
 
 
+
+# Lab 4. Audio
+
+# Lab 5. Vision
 
