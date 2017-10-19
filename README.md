@@ -392,16 +392,16 @@ Today, we will make a thing that interacts with the envorinment through GPIO.
 
 We will start from a simple example of blinking an LED. 
 
-Check the arrangement of GPIO pins of Raspberry Pi 3B: 
+1. First of all, check the arrangement of GPIO pins of Raspberry Pi 3B: 
 ![GPIO pin info](images/gpio-pins.png)
 
-Choose a GPIO port and a GND port. Put a LED and a resistor in series, and connect them to the selected ports.
+2. Choose a GPIO port (18) and a GND port. Put a LED and a resistor in series, and connect them to the selected ports.
 Be careful about the polarity of the LED! You must connect anode (+, longer leg) to the GPIO port and cathode(-, shorter leg) to the resister.
 
 ![GPIO and LED](images/gpio-led.png)
 
-Grant yourself the access to GPIO.
-If you're wokring witn the default user id (pi), you can skip this step.
+3. Grant yourself the access to GPIO.
+If you're wokring with the default user id (pi), you can skip this step.
 But, if you made a new account and are working with it, you should get access to the GPIO and reboot.
 
 ```bash
@@ -409,13 +409,13 @@ sudo adduser [YOUR ID] gpio
 sudo reboot
 ```
 
-Install the Raspberry Pi GPIO package for Python 3. 
+4. Install the Raspberry Pi GPIO package for Python 3. 
 
 ```bash
 pip3 install rpi.gpio
 ```
 
-Run the following Python Code.
+5. Run the following Python Code.
 
 ```python
 # import required libraries 
@@ -448,14 +448,23 @@ python3 led.py
 
 
 
-
 ## Sensing
 
 Next step is to sense the input from the environment. 
+
 Let's start from a simplest possible case: read a digital input (0 or 1). 
+By setting a GPIO port as an input port, you can read the state of the pushbutton.
+The pulldown resister is used to make sure that no (or very little) current flows when the switch is off. 
 
-Let's read the state of the pushbutton using the pulldown resister.
+1. Choose GPIO (16), +3.3, and GND ports and connect them to a pushbutton and a resister as shown in the following figure. 
+Note that you put the switch and the resistor in series and wire the GPIO port to one side of the resister.
+![GPIO and pushbutton](images/push.jpg)
 
+make a ci. Put a LED and a resistor in series, and connect them to the selected ports.
+Be careful about the polarity of the LED! You must connect anode (+, longer leg) to the GPIO port and cathode(-, shorter leg) to the resister.
+
+
+2. Run the following Python code and check the output changes from 0 to 1 as you push the pushbutton.
 
 ```python
 # import required libraries
@@ -474,6 +483,14 @@ for i in range(30):
 
 GPIO.cleanup()
 ```
+
+The code is in https://github.com/ys7yoo/PiTutorial/blob/master/src/push.py.
+You can download and run it as follows.
+```bash
+wget https://github.com/ys7yoo/PiTutorial/blob/master/src/push.py
+python3 push.py
+```
+
 
 ## Combining acting and sensing
 
