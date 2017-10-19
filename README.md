@@ -505,9 +505,9 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 ![Cobbler](images/cobbler.jpg)
 
-https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/the-gpio-connector
-https://www.adafruit.com/product/914
-http://www.devicemart.co.kr/1330569
+* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/the-gpio-connector
+* https://www.adafruit.com/product/914
+* http://www.devicemart.co.kr/1330569
 
 
 
