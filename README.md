@@ -447,10 +447,10 @@ for i in range(3):
 GPIO.cleanup()
 ```
 
-The code is in https://github.com/ys7yoo/PiTutorial/blob/master/src/led.py.
+The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py.
 You can download and run it as follows.
 ```bash
-wget https://github.com/ys7yoo/PiTutorial/blob/master/src/led.py
+wget https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py
 python3 led.py
 ```
 
@@ -490,10 +490,10 @@ for i in range(30):
 GPIO.cleanup()
 ```
 
-The code is in https://github.com/ys7yoo/PiTutorial/blob/master/src/push.py.
+The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py.
 You can download and run it as follows.
 ```bash
-wget https://github.com/ys7yoo/PiTutorial/blob/master/src/push.py
+wget https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py
 python3 push.py
 ```
 
