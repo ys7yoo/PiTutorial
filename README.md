@@ -418,9 +418,11 @@ sudo reboot
    sudo apt install python3-pip
    ```
 
-```bash
-pip3 install rpi.gpio
-```
+   Then, install RPi.GPIO
+   
+   ```bash
+   pip3 install RPi.GPIO
+   ```
 
 5. Run the following Python Code.
 
