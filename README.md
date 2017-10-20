@@ -393,22 +393,23 @@ Today, we will make a thing that interacts with the envorinment through GPIO.
 We will start from a simple example of blinking an LED. 
 
 1. First of all, check the arrangement of GPIO pins of Raspberry Pi 3B: 
-![GPIO pin info](images/gpio-pins.png)
+
+   ![GPIO pin info](images/gpio-pins.png)
 
 2. Choose a GPIO port (18) and a GND port. Put a LED and a resistor in series, and connect them to the selected ports.
 Be careful about the polarity of the LED! You must connect anode (+, longer leg) to the GPIO port and cathode(-, shorter leg) to the resister.
 
-![GPIO and LED](images/gpio-led.png)
+   ![GPIO and LED](images/gpio-led.png)
 
 3. Grant yourself the access to GPIO.
 
-If you're wokring with the default user id (pi), you can skip this step.
-But, if you made a new account and are working with it, you should get access to the GPIO and reboot.
+   If you're wokring with the default user id (pi), you can skip this step.
+   But, if you made a new account and are working with it, you should get access to the GPIO and reboot.
 
-```bash
-sudo adduser [YOUR ID] gpio
-sudo reboot
-```
+   ```bash
+   sudo adduser [YOUR ID] gpio
+   sudo reboot
+   ```
 
 4. Install the Raspberry Pi GPIO package for Python 3. 
 
@@ -473,30 +474,30 @@ Note that you put the pushbutton and the resistor in series and wire the GPIO po
 
 2. Run the following Python code and check the output changes from 0 to 1 as you push the pushbutton.
 
-```python
-# import required libraries
-import RPi.GPIO as GPIO
-import time
+   ```python
+   # import required libraries
+   import RPi.GPIO as GPIO
+   import time
 
-# set up the GPIO 16 for input
-portNo=16
-GPIO.setmode(GPIO.BCM)		# you can set up with BCM
-GPIO.setup(portNo, GPIO.IN)
+   # set up the GPIO 16 for input
+   portNo=16
+   GPIO.setmode(GPIO.BCM)		# you can set up with BCM
+   GPIO.setup(portNo, GPIO.IN)
+   
+   # read the state of the push button
+   for i in range(30):
+       print(GPIO.input(portNo))
+       time.sleep(0.2)
 
-# read the state of the push button
-for i in range(30):
-    print(GPIO.input(portNo))
-    time.sleep(0.2)
+   GPIO.cleanup()
+   ```
 
-GPIO.cleanup()
-```
-
-The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py.
-You can download and run it as follows.
-```bash
-wget https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py
-python3 push.py
-```
+   The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py.
+   You can download and run it as follows.
+   ```bash
+   wget https://raw.github.com/ys7yoo/PiTutorial/master/src/push.py
+   python3 push.py
+   ```
 
 
 ## Combining acting and sensing
