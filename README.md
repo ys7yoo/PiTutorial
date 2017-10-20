@@ -412,6 +412,11 @@ sudo reboot
 
 4. Install the Raspberry Pi GPIO package for Python 3. 
 
+First, install pip3.
+```bash
+sudo apt install python3-pip
+```
+
 ```bash
 pip3 install rpi.gpio
 ```
