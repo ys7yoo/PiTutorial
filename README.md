@@ -426,33 +426,34 @@ sudo reboot
 
 5. Run the following Python Code.
 
-```python
-# import required libraries 
-import RPi.GPIO as GPIO
-import time
+   ```python
+   # import required libraries 
+   import RPi.GPIO as GPIO
+   import time
 
-# set up the GPIO 18 for output
-portNo = 12 # GPIO 18 is on physical port 12
-GPIO.setmode(GPIO.BOARD)
-GPIO.setup(portNo, GPIO.OUT)
+   # set up the GPIO 18 for output
+   portNo = 12 # GPIO 18 is on physical port 12
+   GPIO.setmode(GPIO.BOARD)
+   GPIO.setup(portNo, GPIO.OUT)
 
-# blink the LED
-for i in range(3):
-    GPIO.output(portNo,True)
-    time.sleep(1)
-    GPIO.output(portNo,False)
-    time.sleep(1)
+   # blink the LED
+   for i in range(3):
+       GPIO.output(portNo,True)
+       time.sleep(1)
+       GPIO.output(portNo,False)
+       time.sleep(1)
 
-# clean up GPIO settings
-GPIO.cleanup()
-```
+   # clean up GPIO settings
+   GPIO.cleanup()
+   ```
 
-The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py.
-You can download and run it as follows.
-```bash
-wget https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py
-python3 led.py
-```
+   The code is in https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py.
+   You can download and run it as follows.
+
+   ```bash
+   wget https://raw.github.com/ys7yoo/PiTutorial/master/src/led.py
+   python3 led.py
+   ```
 
 
 
