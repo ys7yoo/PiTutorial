@@ -574,7 +574,17 @@ This week, we will upgrade our thing to speak and understand what we say.
 ![image of thing](images/thing-speech.png)   
 
 ## Text-to-Speech
+Let's convert a text to speech and save it to a wav file.
+```python
+# 1. Import `gTTS`
+from gtts import gTTS
 
+# 2. Create an instance
+tts = gTTS(text='Hello', lang='en', slow=False)
+
+# 3. Write to a file
+tts.save("hello.wav")
+```
 
 ## Speech-to-Text
 
