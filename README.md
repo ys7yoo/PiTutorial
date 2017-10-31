@@ -566,10 +566,6 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    pip3 install -r jasper/client/requirements.txt 
    ```
    
-4. Get Google Speech API key.
-
-   Follow the tutorial here: 
-   
 
 ## Overview
 We will make the thing smarter so that we can interact with it more naturally.
