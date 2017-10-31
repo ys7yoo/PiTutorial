@@ -534,6 +534,19 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 ## Pre-lab Questions
 
+1. 
+2. Read the following materials
+   * Wikipedia page about Google Text-to-Speech https://en.wikipedia.org/wiki/Google_Text-to-Speech.
+   * Python package for gTTS: https://pypi.python.org/pypi/gTTS
+    
+   Install gTTS on your Raspberry Pi.
+   ```bash
+   pip3 install --upgrade gTTS
+   ```
+
+   
+
+3. 
 
 # Lab 5. Vision
 
