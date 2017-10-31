@@ -528,8 +528,12 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 * http://www.devicemart.co.kr/1330569
 
 
+## Demo of Lab 3
 
 # Lab 4. Audio
+
+## Pre-lab Questions
+
 
 # Lab 5. Vision
 
