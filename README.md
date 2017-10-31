@@ -560,7 +560,7 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 ## Overview
 Today, we will make the thing smarter so that we can interact with it more naturally.
 
-![image of thing](images/thing_speech.png)   
+![image of thing](images/thing-speech.png)   
 
 ## Text-to-Speech
 
