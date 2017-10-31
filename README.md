@@ -534,7 +534,11 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 ## Pre-lab Questions
 
-1. Read the article [here](https://www.interaction-design.org/literature/article/natural-user-interfaces-what-are-they-and-how-do-you-design-user-interfaces-that-feel-natural) and summarize key points.
+1. Read the article [here](https://www.interaction-design.org/literature/article/natural-user-interfaces-what-are-they-and-how-do-you-design-user-interfaces-that-feel-natural) and answer the following questions.
+
+   * What is Natural User Interface (NUI)? Explain NUI by comparing it with CLI and GUI.
+   * What can NUI offer to use?
+   * What kinds of technologies can be used for NUI?
 
 
 2. Read the following materials.
