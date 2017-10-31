@@ -551,5 +551,12 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    [TO FILL HERE]
    ```
 
+
+4. Get Google Speech API key.
+
+   Follow the tutorial here: 
+   
+
+
 # Lab 5. Vision
 
