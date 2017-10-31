@@ -555,7 +555,14 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    Install required packages for Jasper before coming to the class.
 
    ```bash
-   [TO FILL HERE]
+   sudo apt install bison libasound2-dev libportaudio-dev python3-pyaudio python3-pymad --yes
+   
+   source ~/.bashrc 
+   
+   git clone https://github.com/jasperproject/jasper-client.git jasper 
+
+   pip3 install --upgrade setuptools
+   pip3 install -r jasper/client/requirements.txt 
    ```
    
 
