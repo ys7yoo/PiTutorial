@@ -558,8 +558,6 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    ```bash
    sudo apt install bison libasound2-dev libportaudio-dev python3-pyaudio -y
    
-   source ~/.bashrc 
-   
    git clone https://github.com/jasperproject/jasper-client.git jasper 
 
    pip3 install --upgrade setuptools
