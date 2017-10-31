@@ -576,17 +576,25 @@ This week, we will upgrade our thing to speak and understand what we say.
 ## Text-to-Speech
 Let's convert a text to speech and save it to a wav file.
 
-Launch python3 and type the following code:
-```python
-# 1. Import `gTTS`
-from gtts import gTTS
+1. Launch python3 and type the following code:
 
-# 2. Create an instance
-tts = gTTS(text='Hello', lang='en', slow=False)
+   ```python
+   # 1. Import `gTTS`
+   from gtts import gTTS
+   
+   # 2. Create an instance
+   tts = gTTS(text='Hello', lang='en', slow=False)
+   
+   # 3. Write to a file
+   tts.save("hello.wav")
+   ```
 
-# 3. Write to a file
-tts.save("hello.wav")
-```
+2. Then, you will see that hello.wav file is generated.
+
+3. Play the file using aplay
+   ```bash
+   aplay hello.wav
+   ```
 
 ## Speech-to-Text
 
