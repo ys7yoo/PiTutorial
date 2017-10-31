@@ -573,6 +573,17 @@ This week, we will upgrade our thing to speak and understand what we say.
 
 ![image of thing](images/thing-speech.png)   
 
+
+## Set up your audio
+1. Plug in your earphone to the 3.5mm jack on your RPI.
+2. Choose the default output to be the jack. Follow instructuins [here](https://github.com/Jangwonjin/Jasper#1-hardware)
+3. Add you to the audio group to get permission to audio devices. 
+```bash
+sudo adduser [YOUR ID] audio
+```
+
+
+
 ## Text-to-Speech
 Let's convert a text to speech and save it to a wav file.
 
