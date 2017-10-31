@@ -534,7 +534,8 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 ## Pre-lab Questions
 
-1. Read the following article. 
+1. Read the article [here](https://www.interaction-design.org/literature/article/natural-user-interfaces-what-are-they-and-how-do-you-design-user-interfaces-that-feel-natural) and summarize key points.
+
 
 2. Read the following materials.
    * Wikipedia page about Google Text-to-Speech https://en.wikipedia.org/wiki/Google_Text-to-Speech.
@@ -556,6 +557,10 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
    Follow the tutorial here: 
    
+## Overview
+Today, we will make the thing smarter so that we can interact with it more naturally.
+
+![image of thing](images/thing_speech.png)   
 
 ## Text-to-Speech
 
