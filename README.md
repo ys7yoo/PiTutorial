@@ -575,6 +575,8 @@ This week, we will upgrade our thing to speak and understand what we say.
 
 ## Text-to-Speech
 Let's convert a text to speech and save it to a wav file.
+
+Launch python3 and type the following code:
 ```python
 # 1. Import `gTTS`
 from gtts import gTTS
