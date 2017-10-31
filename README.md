@@ -547,6 +547,7 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
     
    Install gTTS on your Raspberry Pi.
    ```bash
+   sudo apt install python3-pymad -y
    pip3 install --upgrade gTTS
    ```
 
@@ -555,7 +556,7 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    Install required packages for Jasper before coming to the class.
 
    ```bash
-   sudo apt install bison libasound2-dev libportaudio-dev python3-pyaudio python3-pymad --yes
+   sudo apt install bison libasound2-dev libportaudio-dev python3-pyaudio -y
    
    source ~/.bashrc 
    
