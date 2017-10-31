@@ -534,8 +534,9 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 ## Pre-lab Questions
 
-1. 
-2. Read the following materials
+1. Read the following article. 
+
+2. Read the following materials.
    * Wikipedia page about Google Text-to-Speech https://en.wikipedia.org/wiki/Google_Text-to-Speech.
    * Python package for gTTS: https://pypi.python.org/pypi/gTTS
     
@@ -544,9 +545,11 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    pip3 install --upgrade gTTS
    ```
 
-   
-
-3. 
+3. Go to the Jasper website (https://jasperproject.github.io) and watch the video clip.
+   Install packages for Jasper
+   ```bash
+   [TO FILL HERE]
+   ```
 
 # Lab 5. Vision
 
