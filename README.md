@@ -547,11 +547,13 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    ```
 
 3. Go to the Jasper website (https://jasperproject.github.io) and watch the video clip.
-   Install packages for Jasper
+
+   Install required packages for Jasper before coming to the class.
+
    ```bash
    [TO FILL HERE]
    ```
-
+   
 
 4. Get Google Speech API key.
 
