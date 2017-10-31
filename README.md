@@ -557,6 +557,11 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
    Follow the tutorial here: 
    
 
+## Text-to-Speech
+
+
+## Speech-to-Text
+
 
 # Lab 5. Vision
 
