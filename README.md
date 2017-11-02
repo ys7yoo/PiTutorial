@@ -529,6 +529,8 @@ With Cobbler and cable, you can "dump" all the RPI ports to your breadboard.
 
 
 ## Demo of Lab 3
+Demo your "Combining acting and sensing" (Controlling LED with switch.)
+
 
 # Lab 4. Audio
 
