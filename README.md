@@ -574,7 +574,7 @@ This week, we will upgrade our thing to speak and understand what we say.
 
 ## Set up your audio output
 1. Plug in your earphone to the 3.5mm jack on your RPI.
-2. Choose the default output to be the jack. Follow instructuins [here](https://github.com/Jangwonjin/Jasper#1-hardware)
+2. Choose the default output to be the jack. Follow instructions [here](https://github.com/Jangwonjin/Jasper#1-hardware)
 3. Add you to the audio group to get permission to audio devices. 
 ```bash
 sudo adduser [YOUR ID] audio
@@ -610,7 +610,5 @@ Let's convert a text to speech and save it to a wav file.
 2. Follow instructuins [here](https://github.com/Jangwonjin/Jasper#1-hardware) for setting up your mic.
 
 ## Speech-to-Text
-
-
-# Lab 5. Vision
+Follow instructiosn [here](https://github.com/Jangwonjin/Jasper#2-software).
 
