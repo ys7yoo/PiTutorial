@@ -592,7 +592,7 @@ Let's convert a text to speech and save it to a wav file.
    from gtts import gTTS
    
    # 2. Create an instance
-   tts = gTTS(text='Hello', lang='en', slow=False)
+   tts = gTTS(text='Hello', lang='en', slow=True)
    
    # 3. Write to a file
    tts.save("hello.wav")
