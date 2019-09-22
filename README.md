@@ -43,9 +43,9 @@ Q. What do you want to make using Raspberry Pi?
 2. Make Raspbian micro SD image
     * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
     * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
-        * RASPBIAN STRETCH LITE: CLI only, preferred 
-        * RASPBIAN STRETCH WITH DESKTOP: GUI included, but slow
-        * Version: September 2017, Release date:2017-09-07, Kernel version:4.9
+        * [RASPBIAN STRETCH LITE](http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip): CLI only, preferred 
+        * [RASPBIAN STRETCH WITH DESKTOP](https://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/2019-04-08-raspbian-stretch.zip): GUI included, but slow
+        * Version: 2019-04-09, Devian 9, Kernel version:1.4.9
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
     * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see four raspberries and many booting logs on your screen.
