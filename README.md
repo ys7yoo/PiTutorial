@@ -16,12 +16,11 @@ Q. What do you want to make using Raspberry Pi?
 1. Attach heat sinks
     ![image of heat sinks](images/heat-sink.jpg)
 
-2. Make Raspbian micro SD image
+2. Make Raspberry Pi OS image (micro SD)
     * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
-    * You can download latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
-        * [RASPBIAN STRETCH LITE](http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip): CLI only, preferred 
-        * [RASPBIAN STRETCH WITH DESKTOP](https://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/2019-04-08-raspbian-stretch.zip): GUI included, but slow
-        * Version: 2019-04-09, Devian 9, Kernel version:1.4.9
+    * You can download latest Raspberry Pi OS image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
+        * [RASPBIAN STRETCH LITE](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-lite.zip): CLI only, preferred 
+        * [RASPBIAN STRETCH WITH DESKTOP](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-05-28/2021-05-07-raspios-buster-armhf.zip): GUI included, but slow
     * Insert the micro SD card to the slot in the back.
         ![image of heat sinks](images/sd-card.jpg)
     * Connect the power, monitor (through HDMI), keyboard (through USB) to your RPI. Then, you will see four raspberries and many booting logs on your screen.
