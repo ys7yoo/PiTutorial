@@ -11,6 +11,13 @@ Q. What is it good for?
 Q. What do you want to make using Raspberry Pi?
 ```
 
+## Things you need to follow this tutorial
+* Monitor with HDMI input
+* HDMI cable
+* Keyboard (USB)
+* micro SD
+
+
 ## Installation!
 
 1. Attach heat sinks
@@ -18,7 +25,7 @@ Q. What do you want to make using Raspberry Pi?
 
 2. Make Raspberry Pi OS image (micro SD)
     * follow steps in https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi
-    * You can download latest Raspberry Pi OS image from https://www.raspberrypi.org/downloads/raspbian/ or from our e-larning system (week 2).
+    * You can download latest Raspberry Pi OS image from https://www.raspberrypi.org/downloads/raspbian/.
         * [RASPBIAN STRETCH LITE](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-lite.zip): CLI only, preferred 
         * [RASPBIAN STRETCH WITH DESKTOP](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-05-28/2021-05-07-raspios-buster-armhf.zip): GUI included, but slow
     * Insert the micro SD card to the slot in the back.
