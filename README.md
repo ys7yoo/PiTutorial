@@ -1,10 +1,7 @@
 # PiTutorial
 
 * Raspberry Pi tutorial for beginners.
-* based on 
-  * https://learn.adafruit.com/series/learn-raspberry-pi (original tutorial)
-  * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
-  * 2017 Summer Short Course 
+
 
 ---
 
@@ -169,3 +166,9 @@ Hint: use "raspi-config" command and see inside of localization options
 sudo apt-get update
 sudo apt-get upgrade
 ```
+
+
+## References
+  * https://learn.adafruit.com/series/learn-raspberry-pi (original tutorial)
+  * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
+  * 2017 Summer Short Course 
