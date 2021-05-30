@@ -1,9 +1,6 @@
 # PiTutorial
 
-* Raspberry Pi tutorial for beginners.
-
-
----
+Raspberry Pi tutorial for beginners.
 
 
 # Intro to RPI
