@@ -3,14 +3,6 @@
 Raspberry Pi tutorial for beginners.
 
 
-# Intro to RPI
-## Pre-lab Questions
-```
-Q. What is Raspberry Pi? 
-Q. What is it good for? 
-Q. What do you want to make using Raspberry Pi?
-```
-
 ## Things you need to follow this tutorial
 * Monitor with HDMI input
 * HDMI cable
